@@ -1,1 +1,1 @@
-# Stroke-Gaurd
+# Stroke-Guard
